@@ -1,0 +1,11 @@
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\TestRemoteMachine.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\TestRemoteMachine.pdb
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\nunit.framework.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\WebDriver.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\nunit.framework.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\WebDriver.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\obj\Debug\TestRemoteMachine.csprojResolveAssemblyReference.cache
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\obj\Debug\TestRemoteMachine.dll
+C:\Users\natan.radostin\Source\Repos\Project for testers\TestRemoteMachine\TestRemoteMachine\obj\Debug\TestRemoteMachine.pdb
